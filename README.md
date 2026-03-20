@@ -6,7 +6,7 @@ Built for the **IWD26 Lovelace Challenge** — deployed on CreateOS.
 
 ## What it does
 
-NairaTrack helps Nigerian students track daily expenses, understand spending patterns, and make smarter money decisions — all in one clean dashboard.
+NairaTrack helps Nigerian students track daily expenses, understand spending patterns, and make smarter money decisions all in one clean dashboard.
 
 ## Features
 
